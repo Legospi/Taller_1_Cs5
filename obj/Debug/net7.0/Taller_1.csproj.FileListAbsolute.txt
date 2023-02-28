@@ -1,0 +1,15 @@
+D:\TdeA\Sem 5\CS5\Taller_1\bin\Debug\net7.0\Taller_1.exe
+D:\TdeA\Sem 5\CS5\Taller_1\bin\Debug\net7.0\Taller_1.deps.json
+D:\TdeA\Sem 5\CS5\Taller_1\bin\Debug\net7.0\Taller_1.runtimeconfig.json
+D:\TdeA\Sem 5\CS5\Taller_1\bin\Debug\net7.0\Taller_1.dll
+D:\TdeA\Sem 5\CS5\Taller_1\bin\Debug\net7.0\Taller_1.pdb
+D:\TdeA\Sem 5\CS5\Taller_1\obj\Debug\net7.0\Taller_1.csproj.AssemblyReference.cache
+D:\TdeA\Sem 5\CS5\Taller_1\obj\Debug\net7.0\Taller_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\TdeA\Sem 5\CS5\Taller_1\obj\Debug\net7.0\Taller_1.AssemblyInfoInputs.cache
+D:\TdeA\Sem 5\CS5\Taller_1\obj\Debug\net7.0\Taller_1.AssemblyInfo.cs
+D:\TdeA\Sem 5\CS5\Taller_1\obj\Debug\net7.0\Taller_1.csproj.CoreCompileInputs.cache
+D:\TdeA\Sem 5\CS5\Taller_1\obj\Debug\net7.0\Taller_1.dll
+D:\TdeA\Sem 5\CS5\Taller_1\obj\Debug\net7.0\refint\Taller_1.dll
+D:\TdeA\Sem 5\CS5\Taller_1\obj\Debug\net7.0\Taller_1.pdb
+D:\TdeA\Sem 5\CS5\Taller_1\obj\Debug\net7.0\Taller_1.genruntimeconfig.cache
+D:\TdeA\Sem 5\CS5\Taller_1\obj\Debug\net7.0\ref\Taller_1.dll
