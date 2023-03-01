@@ -146,6 +146,9 @@ class Program2
         }
         else
         {
+
+
+            
             tipoPizza = "No Vegetariana";
             Console.WriteLine("Los ingredientes disponibles son:");
             Console.WriteLine("1. Pepperoni");
